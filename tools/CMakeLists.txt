@@ -1,7 +1,6 @@
 set(TOOLS
   sst_dump.cc
   db_sanity_test.cc
-  db_stress.cc
   write_stress.cc
   ldb.cc
   db_repl_stress.cc
